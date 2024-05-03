@@ -1,0 +1,92 @@
+body{
+    text-align: center;
+
+}
+
+.top{
+    align-items: center;
+    text-align: center;
+    max-width: 500px;
+    width: 100%;
+    margin:auto
+    
+}
+#logo{
+    width: 160px;
+    height: 100px;
+    margin:10px;
+
+}
+
+.part{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    padding: 10px;
+    background: linear-gradient(120deg, #cecfbc, rgb(236, 236, 229));
+    width: 100%;
+}
+.span-bold{
+    font-weight: bold;
+}
+.line
+{
+    margin-top: 2px;
+    margin-bottom: 0px;
+
+}
+h1{
+    max-width: 500px;
+    text-align: center;
+    margin:25px auto
+}
+.introduzione{
+    font-size: 12px;
+    max-width: 500px;
+    margin: 25px auto;
+}
+
+.explain{
+    font-size: 12px;
+    max-width: 500px;
+    margin: 15px auto;
+}
+#focaccia{
+    width: 100%;
+    
+}
+.fonte-img{
+    text-align: center;
+    color: lightslategray;
+    font-size: 12px;
+}
+.featured{
+    color: rgb(207, 106, 11);
+    margin: auto;
+    text-align: left;
+}
+.ricetta{
+    font-size: 12px;
+    max-width: 500px;
+    margin: 15px auto;
+    text-align: left;
+}
+.separatore{
+    border-color:paleturquoise;
+    border-width: 2px;
+}
+.lista{
+    font-size: 14px;
+}
+li{
+    padding-bottom: 5px;
+}
+.footer{
+    margin:20px 35px 10px 25px;
+}
+.ancor{
+    color:rgb(20, 88, 88);
+    font-weight: bold;
+    font-size: 14px;
+}
